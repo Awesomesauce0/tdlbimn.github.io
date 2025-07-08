@@ -30,7 +30,7 @@ const k = kaplay({
             keyboard: ['z', 'l'],
         },
     },
-    letterbox: true
+    //letterbox: true
 });
 k.setLayers(["game", "wipe", "battle", "textbox", "save"],"game")
 
